@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <!--
       -maven项目核心配置文件-
-    Project name(项目名称)：多态
+    Project name(项目名称)：抽象类
     Author(作者）: mao
     Author QQ：1296193245
     Date(创建日期)： 2021/10/11
-    Time(创建时间)： 22:01
+    Time(创建时间)： 22:31
     -->
     <groupId>org.example</groupId>
     <artifactId>abstractClass</artifactId>
